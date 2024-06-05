@@ -5,6 +5,6 @@ Olá, eu sou Fernando de Sousa Fernandes (fernandodesousafernandes) 👋
 
 🏢 Atuação Profissional
 
-🚀 Analista Master em Sistema
+🚀 Analista Master em Sistema na Linx
 
 🎓 Superior em Sistemas para Internet
